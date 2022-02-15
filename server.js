@@ -29,7 +29,7 @@ app.get("/", function(req,res){
             age: 40,
             occupation: "VP",
             company: "RBC",
-            visible: true
+            visible: false
         },
         {
             name: "Jane",
