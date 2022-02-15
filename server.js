@@ -20,7 +20,7 @@ app.get("/", function(req,res){
         {
             name: "John",
             age: 23,
-            occupation: "Developer",
+            occupation: "Project Manager",
             company: "TD",
             visible: true
         },
